@@ -1,0 +1,46 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.top-margin-5 {
+	margin-top: 5px;
+}
+
+#currentWeatherResults {
+	border: 1px solid black;
+	border-radius:4px;
+	padding:3px;
+	margin:25px;
+	width:40%;
+}
+
+#futureWeatherResults {
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 3px;
+	margin: 25px;
+	width: 40%;
+}
+
+.futureDay {
+	border: 1px solid grey;
+	border-radius: 4px;
+	background-color:azure;
+	padding: 3px;
+}
+
+.redText {
+	color: red;
+}
+
+.recent-history {
+	font-size: .7em;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.pad-8 {
+	padding: 8px;
+}
+
